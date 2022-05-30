@@ -3,4 +3,5 @@
 [pull]
 	rebase = true
 [user]
+	name = Vedran Pavic
 	useConfigOnly = true
