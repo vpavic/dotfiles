@@ -4,4 +4,5 @@
 	rebase = true
 [user]
 	name = Vedran Pavic
+	email = vedran@vedranpavic.com
 	useConfigOnly = true
